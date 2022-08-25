@@ -1,1 +1,1 @@
-export {type Maybe, Option, option} from "./src"
+export {type Maybe, Option, option, type Functor, type Either} from "./src"
